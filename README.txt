@@ -1,0 +1,1 @@
+Python program reads and visualizes STL files. (1) Vase rotated about x-axis pi/4 clockwise then about y-axis pi/3 counterclockwise. (2) Total surface area calculated. Completed 2/21/2022. 
